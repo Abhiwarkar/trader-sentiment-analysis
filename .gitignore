@@ -1,0 +1,12 @@
+# temp files
+~$*
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# logs
+*.log
+
+# Power BI temp
+*.pbix.autosave
